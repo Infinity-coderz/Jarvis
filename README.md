@@ -1,6 +1,7 @@
 <h1>Jarvis</h1>
 <br/>
-![tenor](https://github.com/user-attachments/assets/129bc499-f306-4bd0-a25d-ee4863592191)
+![ai_jervis](https://github.com/user-attachments/assets/901aa03d-ea3a-41ce-a19c-a745f85d4e9b)
+<br/>
 <h2>Get source code:</h2>
     1: Open folder in which you want to clone Jarvis
     <br/>
