@@ -12,6 +12,8 @@ https://github.com/user-attachments/assets/7f07163d-4ea8-4143-9949-95084e82336e
     4: Type:
     
            git clone https://github.com/Infinity-coderz/Jarvis.git
+           cd Jarvis
+           pip install -r requirements.txt
  Customize "main.py" according to your computer
  <br/>
  <h2>Download source code:</h2>
