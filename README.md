@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/7f07163d-4ea8-4143-9949-95084e82336e
      6: All done!
      <br/>
 
-See my full playlist on YouTube: https://www.youtube.com/playlist?list=PL1J8JDfPG8vRJoLc7o4c0YiTqcIkO971Z
+See my full playlist on YouTube: <a href="https://www.youtube.com/playlist?list=PL1J8JDfPG8vRJoLc7o4c0YiTqcIkO971Z">Click me</a>
 <br/>
 
 <h3>Don't stop there customize it as a good Python developer!</h3>
