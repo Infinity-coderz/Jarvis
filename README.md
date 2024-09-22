@@ -1,5 +1,17 @@
-<h1>Jarvis</h1>
+<h1 class="jarvis">Jarvis</h1>
 <br/>
+<style>
+    .jarvis{
+    font-size: 60px;
+    color: #fff;
+    background-image: linear-gradient(43deg, #4158d0 0%, #c850c0 46%, #ffcc70 100%);
+    background-clip: text;
+    background-position: 200%;
+    color: transparent;
+    font-weight: 300;
+    transition: 0.6s;
+}
+</style>
 ![ai_jervis](https://github.com/user-attachments/assets/7f07163d-4ea8-4143-9949-95084e82336e)
 <br/>
 <h2>Get source code:</h2>
