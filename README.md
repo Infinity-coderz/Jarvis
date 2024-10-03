@@ -30,7 +30,7 @@
      6: All done!
      <br/>
 
-See my full playlist on YouTube: <a href="https://www.youtube.com/playlist?list=PL1J8JDfPG8vRJoLc7o4c0YiTqcIkO971Z" target="main">YouTube Playlist</a>
+See my full playlist on YouTube: <a href="https://www.youtube.com/playlist?list=PL1J8JDfPG8vTHtmr0td7lFjX2a0SWkYRc" target="main">YouTube Playlist</a>
 <br/>
 
 <h3>Don't stop there customize it as a good Python developer!</h3>
